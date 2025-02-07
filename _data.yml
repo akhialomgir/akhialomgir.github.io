@@ -1,16 +1,16 @@
 lang: en
 
 home:
-  welcome: Hello, I am a person that writes stuff.
+  welcome: 088mmmm...
 
 menu_links: []
 extra_head: []
 
 # Metas plugin https://lume.land/plugins/metas/#description
 metas:
-  site: Blog name
-  description: General description of the blog
+  site: AKHIA's Blog
+  description: General blog about my daily life.
   title: "=title"
   image: "=image"
-  twitter: "@username"
+  twitter: "@Akhia75069353"
   lang: en
